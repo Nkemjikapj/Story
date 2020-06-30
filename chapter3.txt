@@ -1,0 +1,9 @@
+Thus far,I have gained knowledge on the following Web Development foundational topics-
+~HTML5
+~CSS3
+~Bootstrap
+~JavaScript
+~jQuery
+~Node.js
+~APIs
+~CLI
